@@ -1,0 +1,17 @@
+C:\Users\Tuseb\Desktop\marsRovers\MarsTest\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Tuseb\Desktop\marsRovers\MarsTest\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Tuseb\Desktop\marsRovers\MarsTest\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Tuseb\Desktop\marsRovers\MarsTest\bin\Debug\netcoreapp2.1\MarsTest.deps.json
+C:\Users\Tuseb\Desktop\marsRovers\MarsTest\bin\Debug\netcoreapp2.1\MarsTest.runtimeconfig.json
+C:\Users\Tuseb\Desktop\marsRovers\MarsTest\bin\Debug\netcoreapp2.1\MarsTest.runtimeconfig.dev.json
+C:\Users\Tuseb\Desktop\marsRovers\MarsTest\bin\Debug\netcoreapp2.1\MarsTest.dll
+C:\Users\Tuseb\Desktop\marsRovers\MarsTest\bin\Debug\netcoreapp2.1\MarsTest.pdb
+C:\Users\Tuseb\Desktop\marsRovers\MarsTest\bin\Debug\netcoreapp2.1\RoverCalculation.dll
+C:\Users\Tuseb\Desktop\marsRovers\MarsTest\bin\Debug\netcoreapp2.1\RoverCalculation.pdb
+C:\Users\Tuseb\Desktop\marsRovers\MarsTest\obj\Debug\netcoreapp2.1\MarsTest.csprojAssemblyReference.cache
+C:\Users\Tuseb\Desktop\marsRovers\MarsTest\obj\Debug\netcoreapp2.1\MarsTest.csproj.CoreCompileInputs.cache
+C:\Users\Tuseb\Desktop\marsRovers\MarsTest\obj\Debug\netcoreapp2.1\MarsTest.AssemblyInfoInputs.cache
+C:\Users\Tuseb\Desktop\marsRovers\MarsTest\obj\Debug\netcoreapp2.1\MarsTest.AssemblyInfo.cs
+C:\Users\Tuseb\Desktop\marsRovers\MarsTest\obj\Debug\netcoreapp2.1\MarsTest.csproj.CopyComplete
+C:\Users\Tuseb\Desktop\marsRovers\MarsTest\obj\Debug\netcoreapp2.1\MarsTest.dll
+C:\Users\Tuseb\Desktop\marsRovers\MarsTest\obj\Debug\netcoreapp2.1\MarsTest.pdb

@@ -1,0 +1,9 @@
+C:\Users\Tuseb\Desktop\marsRovers\RoverCalculation\bin\Debug\netcoreapp2.1\RoverCalculation.deps.json
+C:\Users\Tuseb\Desktop\marsRovers\RoverCalculation\bin\Debug\netcoreapp2.1\RoverCalculation.dll
+C:\Users\Tuseb\Desktop\marsRovers\RoverCalculation\bin\Debug\netcoreapp2.1\RoverCalculation.pdb
+C:\Users\Tuseb\Desktop\marsRovers\RoverCalculation\obj\Debug\netcoreapp2.1\RoverCalculation.csproj.CoreCompileInputs.cache
+C:\Users\Tuseb\Desktop\marsRovers\RoverCalculation\obj\Debug\netcoreapp2.1\RoverCalculation.AssemblyInfoInputs.cache
+C:\Users\Tuseb\Desktop\marsRovers\RoverCalculation\obj\Debug\netcoreapp2.1\RoverCalculation.AssemblyInfo.cs
+C:\Users\Tuseb\Desktop\marsRovers\RoverCalculation\obj\Debug\netcoreapp2.1\RoverCalculation.dll
+C:\Users\Tuseb\Desktop\marsRovers\RoverCalculation\obj\Debug\netcoreapp2.1\RoverCalculation.pdb
+C:\Users\Tuseb\Desktop\marsRovers\RoverCalculation\obj\Debug\netcoreapp2.1\RoverCalculation.csprojAssemblyReference.cache
